@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@300..900&display=swap');
+
+.affinidi-login-settings {
+    font-family: Figtree, sans-serif;
+}
+
+.affinidi-login-settings .form-table th {
+    font-weight: 400;
+}
+
+.affinidi-login-settings .admin-settings-inside {
+    background-color: #ffffff;
+    padding: 10px 20px 0;
+}
+
+.affinidi-login-settings .admin-settings-header {
+    background-color: #ffffff;
+    padding: 10px 20px 0;
+    border-bottom: 1px solid #c3c4c7;
+    position: relative;
+}
+
+.affinidi-login-settings .affinidi-login-doc {
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+}
